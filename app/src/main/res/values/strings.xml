@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AcBrujula16_10_25</string>
+    <string name="compass_cd">Imagen de brújula</string>
+    <string name="open_camera">Abrir cámara</string>
+</resources>
